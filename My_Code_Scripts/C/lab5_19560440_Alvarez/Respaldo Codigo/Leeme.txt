@@ -1,0 +1,2 @@
+En caso de borrado accidental del codigo, este archivo .rar contiene una copia de
+los archivos .h y .c

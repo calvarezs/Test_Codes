@@ -1,0 +1,16 @@
+*Para compilar abrir en la terminal el siguiente directorio:
+
+ \..\lab2_19560440_Alvarez\Codigo_Fuente\src
+
+ y ejecutar el comando 'make'.
+
+
+
+
+*Para limpiar los archivos '.o' ejecutar 'make clean'
+
+
+
+*NOTA: recordar revisar la extensión del ejecutable a compilar dentro del Makefile:
+	Para Windows: 'Laberinto.exe'
+	Para Linux  : 'Laberinto.out'  
